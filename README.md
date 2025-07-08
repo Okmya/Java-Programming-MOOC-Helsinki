@@ -9,4 +9,4 @@ My solutions to the [Java Programming MOOC 2020](https://java-programming.mooc.f
 - ✅ **Part 3** – Completed  
 - ✅ **Part 4** – Completed  
 - ✅ **Part 5** – Completed 
-- 🔄 **Part 6+** – Not started
+- 🔄 **Part 6+** – In progress
